@@ -67,7 +67,7 @@ public class Funciones {
     }
 
     public static void main(String[] args) {
-        System.out.println("Producto: " + calcularProducto(5, 2));
+        System.out.println("Producto: " + calcularProducto(2, 2));
         System.out.println("Producto Geométrico: " + productoGeometrico(2, 3, 4));
         System.out.println("Combinatorio: " + combinatorio(5, 2));
         System.out.println("S(n, k): " + calcularS(5, 3));
